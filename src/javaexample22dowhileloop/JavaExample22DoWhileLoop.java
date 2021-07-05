@@ -21,6 +21,7 @@ public class JavaExample22DoWhileLoop {
         }while(a!=0);
         
         System.out.println("Here is out of Do-While-Loop.");
+        in.close();
     }// end main
     private static int GetInteger(Scanner input)
     {
